@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Nexus Ventures - AI-Controlled Company Simulation',
+  title: 'AI Corp Inc - AI-Controlled Company Simulation',
   description: 'Watch AI agents autonomously run a finance and real estate company',
   generator: 'v0.app',
   icons: {
