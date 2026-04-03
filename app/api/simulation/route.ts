@@ -9,7 +9,7 @@ import type { AgentRole } from '@/lib/agents/agents'
 // In-memory state (in production, use a database)
 let simulationState: SimulationState | null = null
 let simulationConfig: SimulationConfig = {
-  companyName: 'Skyline Capital',
+  companyName: 'Nexus Ventures',
   startingCash: 10_000_000,
   simulationSpeedMs: 1000,
   maxAgentActionsPerTick: 3,
